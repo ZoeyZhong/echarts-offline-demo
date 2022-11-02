@@ -9,6 +9,7 @@ echarts github上的地图js及json包: <br/>
 前端框架：Vue 5.0.6 <br/>
 echart: echarts 5.4.0 <br/>
 
+只能精确到省级<br/>
 # demo
 
 ## Project setup
